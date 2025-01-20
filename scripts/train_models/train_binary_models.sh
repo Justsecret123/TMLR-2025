@@ -1,0 +1,1 @@
+python -m mg_training_GCN_2 & python -m mg_training_graphsage_2 & python -m mg_training_vanilla_2
